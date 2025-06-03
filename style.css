@@ -1,5 +1,5 @@
 h2{
-    color:orange;
+    color:rgb(224, 39, 122);
 }
 
 body{
@@ -10,11 +10,11 @@ body{
 }
 
 header{
-    border-bottom: 1px solid grey;
+    border-bottom: 1px solid rgb(234, 229, 229);
 }
 
 footer{
-    border-top: 1px solid grey;
+    border-top: 1px solid rgb(207, 198, 198);
 }
 
 #nome-usuário{
